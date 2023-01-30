@@ -3,12 +3,12 @@ This repository contains the comprehensive work done as part of the Coursera cou
 
 ## Table of Contents
 
-1. Write_your_first_python_code
-2. Dictionaries in Python
-3. Sets in Python
-4. Lists in Python
-5. Tuples in Python
-6. Add files via upload
+### 1. Write_your_first_python_code
+### 2. Dictionaries in Python
+### 3. Sets in Python
+### 4. Lists in Python
+### 5. Tuples in Python
+### 6. Add files via upload
 
 ## Getting Started
 
